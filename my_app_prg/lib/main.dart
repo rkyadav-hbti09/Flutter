@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'layout_samp/application.dart';
+import 'my_questions/application.dart';
 
 void main() {
   runApp(const MyApp());
